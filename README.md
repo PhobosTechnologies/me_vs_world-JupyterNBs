@@ -15,7 +15,7 @@ There are four major points to understand before analyzing the output of this si
     2. These energy beings do not sleep, though in the later sims they do.
     3. Energy units are designed to emulate that of the kilocalorie (the traditional calorie on food packages)
         1. 1 energy unit is roughy equivalent to 1 cal.
-        2. The agent's energy expenditure is roughly based on caloric energy expenditure.
+        2. The agent's energy expenditure is roughly based on human caloric energy consumption and expenditure.
     4. Each set of simulation runs are based on money to energy ratio.
         1. The first set (@M2E_1) sets the purchase price of 1 energy unit at 1 monetary unit.
         2. The last set (@M2E_10000) sets the purchase price of 1 energy unit to 10,000 monetary units.
