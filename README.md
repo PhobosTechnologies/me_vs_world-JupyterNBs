@@ -1,4 +1,4 @@
-This is the first of series of progressively more complex simulations.
+This is the first of a series of progressively more complex simulations.
 
 The purpose of this sim was to:
 1. help create a stable foundation for the other sims and,
